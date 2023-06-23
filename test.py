@@ -1,3 +1,2 @@
-from CNNClassifier import logging
-
-logging.info("Testing the custom log ")
+from CNNClassifier import constants
+print(constants.CONFIG_FILE_PATH)

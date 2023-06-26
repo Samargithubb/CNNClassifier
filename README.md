@@ -3,11 +3,11 @@ This project is a dog and cat classifier that uses deep learning techniques to d
 
 #### Installation
 - Clone the repository:
-- - git clone [repository_url](https://github.com/Samargithubb/CNNClassifier.git)
+  - git clone https://github.com/Samargithubb/CNNClassifier.git
   
 - Install the required dependencies:
 
-- - pip install -r requirements.txt
+  - pip install -r requirements.txt
   
 #### Usage
 - Run python app.py in the terminal or directly click on Run from the code editor.
